@@ -23,6 +23,11 @@ function App() {
       <hr className="horizontal-line" />
       <Extracurriculars />
       <hr className="horizontal-line" />
+
+      <br></br>
+      Feel free to move me around and make me larger or smaller!
+      <br></br>
+      <br></br>
       <MonsteraPlant /> {}
       <Footer />
     </div>
