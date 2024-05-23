@@ -1,5 +1,6 @@
 import React from 'react';
 import './Hero.css';
+import './Everything.css';
 
 function Hero() {
   return (

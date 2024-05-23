@@ -1,0 +1,10 @@
+.education-skills h2, .about h2, .experience-projects h2, .extracurriculars h2{
+    color: #006400;
+}
+
+.horizontal-line {
+    width: 85%;
+    margin: 0 auto; 
+    border: 1px solid green; 
+  }
+  
