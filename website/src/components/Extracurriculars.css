@@ -1,0 +1,8 @@
+.extracurriculars {
+    padding: 2em;
+    transition: transform 0.3s ease-in-out;
+}
+  
+.extracurriculars:hover {
+    transform: scale(1.1);
+  }

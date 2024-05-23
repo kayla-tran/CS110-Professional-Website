@@ -1,0 +1,8 @@
+.education-skills {
+    padding: 2em;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+.education-skills:hover {
+    transform: scale(1.1);
+  }

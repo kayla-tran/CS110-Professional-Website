@@ -1,0 +1,17 @@
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    background: url('monstera.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+  }
+  
+  .hero-text {
+    background-color: rgba(0, 51, 0, 0.85); 
+    padding: 20px;
+    border-radius: 10px;
+  }
+  

@@ -1,0 +1,10 @@
+.about {
+    padding: 2em;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .about:hover {
+    transform: scale(1.1);
+  }
+  
