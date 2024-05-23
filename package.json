@@ -3,6 +3,7 @@
     "three": "^0.164.1"
   },
   "scripts": {
+    "build": "npm run deploy",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
