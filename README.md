@@ -2,7 +2,7 @@
 
 A brief explanation of my website and the things I have implemented in it.
 
-3 React Components: All components and their respective css files are included in the "components" folder.
+*3 React Components:* All components and their respective css files are included in the "components" folder.
 
 Animation/Responsive Design: I had all of my sections "grow" while you hover over that specific section. The text will go back to its original size once the cursor is no longer hovering over the text.
 
